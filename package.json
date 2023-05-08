@@ -1,8 +1,12 @@
 {
-  "name": "NODE_RPC",
+  "name": "prisma-rpc-cluster",
   "version": "1.0.0",
   "main": "CLI/index",
   "author": "Falci William Peter",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WilliamFalci/PRISMA-RPC-CLI.git"
+  },
   "license": "MIT",
   "dependencies": {
     "commander": "^10.0.1",
