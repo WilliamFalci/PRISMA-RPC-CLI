@@ -1,0 +1,13 @@
+{
+  "name": "NODE_RPC",
+  "version": "1.0.0",
+  "main": "CLI/index",
+  "author": "Falci William Peter",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "dotenv": "^16.0.3",
+    "jayson": "^4.1.0",
+    "lodash": "^4.17.21"
+  }
+}
