@@ -1,7 +1,7 @@
 'use strict';
 
 const path = require('path')
-const dotenv = require('dotenv').config({ path: path.resolve(__dirname, `../CLI/env/.env`) })
+require('dotenv').config({ path: path.resolve(__dirname, `../CLI/env/.env`) })
 
 const _ = require('lodash');
 const jayson = require('jayson');

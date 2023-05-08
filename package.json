@@ -8,6 +8,17 @@
     "commander": "^10.0.1",
     "dotenv": "^16.0.3",
     "jayson": "^4.1.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "replace-in-file": "^6.3.5"
+  },
+  "scripts": {
+    "cli": "cd ./CLI && node cli",
+    "rpc:dev": "cd ./RPC node server",
+    "rpc:up": "",
+    "db:dev:up": "cd ./DB && docker compose up",
+    "db:up": "cd ./DB && docker compose up -d",
+    "db:build": "cd ./DB && docker compose up -d --build",
+    "db:down": "cd ./DB && docker compose down",
+    "db:bash": "docker exec -it microservices-cluster bash"
   }
 }

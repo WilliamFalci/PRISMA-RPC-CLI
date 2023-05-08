@@ -1,11 +1,12 @@
 const { Command } = require('commander');
 const { createService } = require('./modules/service');
 const { createMethod } = require('./modules/method');
+
 const program = new Command();
 
 program
-  .name('PRISMA-RPC-CLI')
-  .description('CLI to some JavaScript string utilities')
+  .name('PRISMA NODE CLUSTER')
+  .description('\n───────────────────────────────────────────────────────────────\n\n🚀 ・ Full Stack RPC Service Manager with Multi-DB management\n\n💻 ・ Created with 💕 from Italy by Falci William Peter\n\n⭐ ・ https://github.com/WilliamFalci\n\n───────────────────────────────────────────────────────────────')
   .version('0.8.0');
 
 program.command('service')
