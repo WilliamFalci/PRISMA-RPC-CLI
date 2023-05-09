@@ -14,7 +14,7 @@ const createServiceRouter = async (service_name) => {
   await replace({
     files: `${process.env.RPC_PATH}/router.js`,
     from: /(let methods = {}\n)/gm,
-    to: `let methods = {}\nmethods = Object.assign(methods,{${service_name}: ${service_name}});`
+    to: `let methods = {}\nmethods = Object.assign(methods,{${service_name}: ${service_name}});\n`
   })
 }
 

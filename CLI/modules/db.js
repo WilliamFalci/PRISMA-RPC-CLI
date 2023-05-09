@@ -18,12 +18,12 @@ function randomString(length) {
 }
 
 const createServiceDB = async (service_name) => {
-  const dbUser = randomString(10)
+  const dbUser = randomString(10).toLowerCase()
   const dbPassword = randomString(32)
 
   const dbUserInjection = `SERVICE_${service_name.toUpperCase()}_DB_USER=${dbUser}`
   const dbPasswordInjection = `SERVICE_${service_name.toUpperCase()}_DB_PASSWORD=${dbPassword}`
-  const dbUrlInjection = `SERVICE_${service_name.toUpperCase()}_DB_URL=postgresql://${dbUser}:$${dbPassword}@localhost:${process.env.POSTGRES_PORT}/${service_name}?schema=public`
+  const dbUrlInjection = `SERVICE_${service_name.toUpperCase()}_DB_URL=postgresql://${dbUser}:${dbPassword}@localhost:${process.env.POSTGRES_PORT}/${service_name}?schema=public`
 
   await replace({
     files: `${process.env.ENV_PATH}/.env`,
@@ -43,4 +43,11 @@ const createServiceDB = async (service_name) => {
   await exec(`docker exec "${process.env.DOCKER_CONTAINER}" psql -U ${process.env.POSTGRES_USER} -d ${service_name} -c "ALTER DEFAULT PRIVILEGES FOR USER ${dbUser} IN SCHEMA public GRANT SELECT, INSERT, UPDATE, DELETE ON TABLES TO ${dbUser};"`)
 }
 
-module.exports = { createServiceDB }
+const deleteServiceDB = async (service_db, user_db) => {
+  // DELETE DB
+  await exec(`docker exec "${process.env.DOCKER_CONTAINER}" psql -U ${process.env.POSTGRES_USER} -d master -c "DROP DATABASE ${service_db} WITH (FORCE);"`)
+  // DELETE USER
+  await exec(`docker exec "${process.env.DOCKER_CONTAINER}" psql -U ${process.env.POSTGRES_USER} -d master -c "drop user ${user_db};"`)
+}
+
+module.exports = { createServiceDB, deleteServiceDB }

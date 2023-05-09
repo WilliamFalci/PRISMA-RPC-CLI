@@ -1,6 +1,6 @@
 const { Command } = require('commander');
 const { createService } = require('./modules/service');
-const { createMethod } = require('./modules/method');
+const { createMethod, deleteService } = require('./modules/method');
 
 const program = new Command();
 
@@ -25,7 +25,7 @@ program.command('service')
         }
 
         if (options.delete) {
-          console.log('TO DO')
+          await deleteService(service_name)
         }
         break
       case 0:
