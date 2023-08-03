@@ -1,0 +1,2490 @@
+[
+    {
+        "broadcaster_id": "626488727",
+        "broadcaster_login": "unerdchannel",
+        "broadcaster_name": "unerdchannel",
+        "segments": [
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-06-07T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJlYTBjN2MzNi04MjdhLTQ4ZWYtYjcwMi1iMDE4YzQ0MWQ5YzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-07T19:30:00Z",
+                "title": "Creatori Contenti - Una serie di sfortunate interviste"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "66082",
+                    "name": "Games + Demos"
+                },
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiIwOWIwNTJiOS1lMTAxLTQxMmMtYWZhNi04YzhjODg1MzhlZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-09T19:30:00Z",
+                "title": "Friday Night Games - Serata di gioco e sciallo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJjZmNlYmMzMy0yMmIyLTQ2ODMtOGJmNS0xYTAyNDdkZThjMTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-12T19:00:00Z",
+                "title": "Debates and Drawings - serata d'arte e chiacchere with Nut"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-06-14T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJlYTBjN2MzNi04MjdhLTQ4ZWYtYjcwMi1iMDE4YzQ0MWQ5YzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-14T19:30:00Z",
+                "title": "Creatori Contenti - Una serie di sfortunate interviste"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "66082",
+                    "name": "Games + Demos"
+                },
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiIwOWIwNTJiOS1lMTAxLTQxMmMtYWZhNi04YzhjODg1MzhlZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-16T19:30:00Z",
+                "title": "Friday Night Games - Serata di gioco e sciallo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJjZmNlYmMzMy0yMmIyLTQ2ODMtOGJmNS0xYTAyNDdkZThjMTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-19T19:00:00Z",
+                "title": "Debates and Drawings - serata d'arte e chiacchere with Nut"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-06-21T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJlYTBjN2MzNi04MjdhLTQ4ZWYtYjcwMi1iMDE4YzQ0MWQ5YzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-21T19:30:00Z",
+                "title": "Creatori Contenti - Una serie di sfortunate interviste"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "66082",
+                    "name": "Games + Demos"
+                },
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiIwOWIwNTJiOS1lMTAxLTQxMmMtYWZhNi04YzhjODg1MzhlZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-23T19:30:00Z",
+                "title": "Friday Night Games - Serata di gioco e sciallo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJjZmNlYmMzMy0yMmIyLTQ2ODMtOGJmNS0xYTAyNDdkZThjMTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-26T19:00:00Z",
+                "title": "Debates and Drawings - serata d'arte e chiacchere with Nut"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-06-28T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJlYTBjN2MzNi04MjdhLTQ4ZWYtYjcwMi1iMDE4YzQ0MWQ5YzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-28T19:30:00Z",
+                "title": "Creatori Contenti - Una serie di sfortunate interviste"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "66082",
+                    "name": "Games + Demos"
+                },
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiIwOWIwNTJiOS1lMTAxLTQxMmMtYWZhNi04YzhjODg1MzhlZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-30T19:30:00Z",
+                "title": "Friday Night Games - Serata di gioco e sciallo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJjZmNlYmMzMy0yMmIyLTQ2ODMtOGJmNS0xYTAyNDdkZThjMTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+                "is_recurring": true,
+                "start_time": "2023-07-03T19:00:00Z",
+                "title": "Debates and Drawings - serata d'arte e chiacchere with Nut"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-07-05T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJlYTBjN2MzNi04MjdhLTQ4ZWYtYjcwMi1iMDE4YzQ0MWQ5YzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+                "is_recurring": true,
+                "start_time": "2023-07-05T19:30:00Z",
+                "title": "Creatori Contenti - Una serie di sfortunate interviste"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "66082",
+                    "name": "Games + Demos"
+                },
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiIwOWIwNTJiOS1lMTAxLTQxMmMtYWZhNi04YzhjODg1MzhlZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+                "is_recurring": true,
+                "start_time": "2023-07-07T19:30:00Z",
+                "title": "Friday Night Games - Serata di gioco e sciallo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJjZmNlYmMzMy0yMmIyLTQ2ODMtOGJmNS0xYTAyNDdkZThjMTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+                "is_recurring": true,
+                "start_time": "2023-07-10T19:00:00Z",
+                "title": "Debates and Drawings - serata d'arte e chiacchere with Nut"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-07-12T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJlYTBjN2MzNi04MjdhLTQ4ZWYtYjcwMi1iMDE4YzQ0MWQ5YzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+                "is_recurring": true,
+                "start_time": "2023-07-12T19:30:00Z",
+                "title": "Creatori Contenti - Una serie di sfortunate interviste"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "66082",
+                    "name": "Games + Demos"
+                },
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiIwOWIwNTJiOS1lMTAxLTQxMmMtYWZhNi04YzhjODg1MzhlZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+                "is_recurring": true,
+                "start_time": "2023-07-14T19:30:00Z",
+                "title": "Friday Night Games - Serata di gioco e sciallo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJjZmNlYmMzMy0yMmIyLTQ2ODMtOGJmNS0xYTAyNDdkZThjMTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+                "is_recurring": true,
+                "start_time": "2023-07-17T19:00:00Z",
+                "title": "Debates and Drawings - serata d'arte e chiacchere with Nut"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-07-19T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJlYTBjN2MzNi04MjdhLTQ4ZWYtYjcwMi1iMDE4YzQ0MWQ5YzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+                "is_recurring": true,
+                "start_time": "2023-07-19T19:30:00Z",
+                "title": "Creatori Contenti - Una serie di sfortunate interviste"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "66082",
+                    "name": "Games + Demos"
+                },
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiIwOWIwNTJiOS1lMTAxLTQxMmMtYWZhNi04YzhjODg1MzhlZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+                "is_recurring": true,
+                "start_time": "2023-07-21T19:30:00Z",
+                "title": "Friday Night Games - Serata di gioco e sciallo"
+            }
+        ],
+        "vacation": null
+    },
+    {
+        "broadcaster_id": "409421256",
+        "broadcaster_login": "dragonerosso88",
+        "broadcaster_name": "dragonerosso88",
+        "segments": [
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJkY2YwY2JmYS1kMDcwLTQ4ZDAtYWIzMC00YmQ0MjE5YWJjZjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-06T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI5MGRmOWI4OC1lZTVjLTQ3NjMtYWExMy05Zjk4YTVmNzUyYmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-07T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI4Mzk4ZWRiYy1lMjIxLTQxMzktOGM4NS00ZjhlMDdkZWRmYzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-08T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJlYWQwNGM3OS1hOTYxLTQ1NWEtOGNjMS02ODAxMDAxYmE0YzAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-09T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJhYzc0NTY0OC00MGZmLTQ2ODYtYjM5ZS02MWU5NDhjYjk4ZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-12T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJkY2YwY2JmYS1kMDcwLTQ4ZDAtYWIzMC00YmQ0MjE5YWJjZjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-13T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI5MGRmOWI4OC1lZTVjLTQ3NjMtYWExMy05Zjk4YTVmNzUyYmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-14T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI4Mzk4ZWRiYy1lMjIxLTQxMzktOGM4NS00ZjhlMDdkZWRmYzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-15T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJlYWQwNGM3OS1hOTYxLTQ1NWEtOGNjMS02ODAxMDAxYmE0YzAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-16T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJhYzc0NTY0OC00MGZmLTQ2ODYtYjM5ZS02MWU5NDhjYjk4ZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-19T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJkY2YwY2JmYS1kMDcwLTQ4ZDAtYWIzMC00YmQ0MjE5YWJjZjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-20T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI5MGRmOWI4OC1lZTVjLTQ3NjMtYWExMy05Zjk4YTVmNzUyYmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-21T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI4Mzk4ZWRiYy1lMjIxLTQxMzktOGM4NS00ZjhlMDdkZWRmYzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-22T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJlYWQwNGM3OS1hOTYxLTQ1NWEtOGNjMS02ODAxMDAxYmE0YzAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-23T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJhYzc0NTY0OC00MGZmLTQ2ODYtYjM5ZS02MWU5NDhjYjk4ZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-26T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJkY2YwY2JmYS1kMDcwLTQ4ZDAtYWIzMC00YmQ0MjE5YWJjZjMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-27T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI5MGRmOWI4OC1lZTVjLTQ3NjMtYWExMy05Zjk4YTVmNzUyYmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-28T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI4Mzk4ZWRiYy1lMjIxLTQxMzktOGM4NS00ZjhlMDdkZWRmYzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-29T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJlYWQwNGM3OS1hOTYxLTQ1NWEtOGNjMS02ODAxMDAxYmE0YzAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-30T20:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJhYzc0NTY0OC00MGZmLTQ2ODYtYjM5ZS02MWU5NDhjYjk4ZjgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+                "is_recurring": true,
+                "start_time": "2023-07-03T20:30:00Z",
+                "title": ""
+            }
+        ],
+        "vacation": null
+    },
+    {
+        "broadcaster_id": "113590576",
+        "broadcaster_login": "caldiuk",
+        "broadcaster_name": "Caldiuk",
+        "segments": [
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-06T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkMDI1ZGZmZS0zZTBiLTQ1ZWEtYTQyYi03MDkwZGU3ODQ5NjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-06T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-07T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI4OWQ1NDkyYS0zYjQ1LTRiZmItYmE3NS1kYTgzM2M3NDhiZjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-07T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-08T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJhZjA3NTM1NC1mZDkyLTRkYzAtODljYy1iMDhlYjgzMjEzNDkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-08T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-12T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJhY2RmYjk4Mi0wZTRiLTQ1YzMtOWUzMi0xOGExNWZjODEyYjQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-12T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-13T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkMDI1ZGZmZS0zZTBiLTQ1ZWEtYTQyYi03MDkwZGU3ODQ5NjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-13T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-14T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI4OWQ1NDkyYS0zYjQ1LTRiZmItYmE3NS1kYTgzM2M3NDhiZjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-14T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-15T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJhZjA3NTM1NC1mZDkyLTRkYzAtODljYy1iMDhlYjgzMjEzNDkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-15T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-19T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJhY2RmYjk4Mi0wZTRiLTQ1YzMtOWUzMi0xOGExNWZjODEyYjQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-19T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-20T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkMDI1ZGZmZS0zZTBiLTQ1ZWEtYTQyYi03MDkwZGU3ODQ5NjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-20T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-21T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI4OWQ1NDkyYS0zYjQ1LTRiZmItYmE3NS1kYTgzM2M3NDhiZjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-21T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-22T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJhZjA3NTM1NC1mZDkyLTRkYzAtODljYy1iMDhlYjgzMjEzNDkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-22T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-26T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJhY2RmYjk4Mi0wZTRiLTQ1YzMtOWUzMi0xOGExNWZjODEyYjQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-26T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-27T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkMDI1ZGZmZS0zZTBiLTQ1ZWEtYTQyYi03MDkwZGU3ODQ5NjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-27T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-28T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI4OWQ1NDkyYS0zYjQ1LTRiZmItYmE3NS1kYTgzM2M3NDhiZjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-28T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-29T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJhZjA3NTM1NC1mZDkyLTRkYzAtODljYy1iMDhlYjgzMjEzNDkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-29T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-07-03T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJhY2RmYjk4Mi0wZTRiLTQ1YzMtOWUzMi0xOGExNWZjODEyYjQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+                "is_recurring": true,
+                "start_time": "2023-07-03T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-07-04T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkMDI1ZGZmZS0zZTBiLTQ1ZWEtYTQyYi03MDkwZGU3ODQ5NjEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+                "is_recurring": true,
+                "start_time": "2023-07-04T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-07-05T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI4OWQ1NDkyYS0zYjQ1LTRiZmItYmE3NS1kYTgzM2M3NDhiZjciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+                "is_recurring": true,
+                "start_time": "2023-07-05T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-07-06T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJhZjA3NTM1NC1mZDkyLTRkYzAtODljYy1iMDhlYjgzMjEzNDkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+                "is_recurring": true,
+                "start_time": "2023-07-06T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-07-10T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJhY2RmYjk4Mi0wZTRiLTQ1YzMtOWUzMi0xOGExNWZjODEyYjQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+                "is_recurring": true,
+                "start_time": "2023-07-10T19:00:00Z",
+                "title": "Entra a salutare il caldiukkone e i suoi fantastici amici!"
+            }
+        ],
+        "vacation": null
+    },
+    {
+        "broadcaster_id": "594423087",
+        "broadcaster_login": "pintuxttv",
+        "broadcaster_name": "PintuxTTV",
+        "segments": [
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-07T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIwZTY5MjliYy1iNWJhLTRjZGUtOWQwNC04MjJkZjExZWEyNjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-07T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-08T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0N2I5MzRlMi1jMGM4LTQxZjUtODVmMy0zYzFiNzRiNjk0YTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-08T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-09T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0YmViNGQ3Yi00MTNkLTRiYjctOTNiOS1jYTlmNjM5MmQ0ZTciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-09T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-10T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJlMzI0ZWU5Yi1hZjIzLTRjMzgtOWU0OC0yMDM5N2RiMzc0MGIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-10T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-11T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0Zjg3NDBmZS1kNDM3LTRkMmQtYjM0MC05ZjYyNjMxYTQyMWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-11T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-12T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2Yjk3M2VmZC01MDYzLTQ5MGItOTAwMi00ZTBkYTgwMmJjYTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-12T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-13T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2ODM3N2YyNy0xYzY2LTQzMDAtOGUzNi04OWViNTI4MWJmMmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-13T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-14T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIwZTY5MjliYy1iNWJhLTRjZGUtOWQwNC04MjJkZjExZWEyNjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-14T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-15T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0N2I5MzRlMi1jMGM4LTQxZjUtODVmMy0zYzFiNzRiNjk0YTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-15T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-16T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0YmViNGQ3Yi00MTNkLTRiYjctOTNiOS1jYTlmNjM5MmQ0ZTciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-16T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-17T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJlMzI0ZWU5Yi1hZjIzLTRjMzgtOWU0OC0yMDM5N2RiMzc0MGIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-17T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-18T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0Zjg3NDBmZS1kNDM3LTRkMmQtYjM0MC05ZjYyNjMxYTQyMWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-18T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-19T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2Yjk3M2VmZC01MDYzLTQ5MGItOTAwMi00ZTBkYTgwMmJjYTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-19T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-20T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2ODM3N2YyNy0xYzY2LTQzMDAtOGUzNi04OWViNTI4MWJmMmEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-20T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-21T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIwZTY5MjliYy1iNWJhLTRjZGUtOWQwNC04MjJkZjExZWEyNjYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-21T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-22T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0N2I5MzRlMi1jMGM4LTQxZjUtODVmMy0zYzFiNzRiNjk0YTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-22T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-23T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0YmViNGQ3Yi00MTNkLTRiYjctOTNiOS1jYTlmNjM5MmQ0ZTciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-23T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-24T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJlMzI0ZWU5Yi1hZjIzLTRjMzgtOWU0OC0yMDM5N2RiMzc0MGIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-24T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-25T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0Zjg3NDBmZS1kNDM3LTRkMmQtYjM0MC05ZjYyNjMxYTQyMWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-25T12:30:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-26T16:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2Yjk3M2VmZC01MDYzLTQ5MGItOTAwMi00ZTBkYTgwMmJjYTAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-26T12:30:00Z",
+                "title": ""
+            }
+        ],
+        "vacation": null
+    },
+    {
+        "broadcaster_id": "795901706",
+        "broadcaster_login": "lastarthouse",
+        "broadcaster_name": "LaStartHouse",
+        "segments": [
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-06-08T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-08T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-06-15T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-15T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-06-22T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-22T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-06-29T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-29T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-07-06T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+                "is_recurring": true,
+                "start_time": "2023-07-06T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-07-13T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+                "is_recurring": true,
+                "start_time": "2023-07-13T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-07-20T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+                "is_recurring": true,
+                "start_time": "2023-07-20T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-07-27T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+                "is_recurring": true,
+                "start_time": "2023-07-27T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-08-03T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+                "is_recurring": true,
+                "start_time": "2023-08-03T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-08-10T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+                "is_recurring": true,
+                "start_time": "2023-08-10T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-08-17T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+                "is_recurring": true,
+                "start_time": "2023-08-17T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-08-24T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+                "is_recurring": true,
+                "start_time": "2023-08-24T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-08-31T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+                "is_recurring": true,
+                "start_time": "2023-08-31T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-09-07T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
+                "is_recurring": true,
+                "start_time": "2023-09-07T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-09-14T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozN30=",
+                "is_recurring": true,
+                "start_time": "2023-09-14T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-09-21T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
+                "is_recurring": true,
+                "start_time": "2023-09-21T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-09-28T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
+                "is_recurring": true,
+                "start_time": "2023-09-28T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-10-05T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
+                "is_recurring": true,
+                "start_time": "2023-10-05T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-10-12T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
+                "is_recurring": true,
+                "start_time": "2023-10-12T19:30:00Z",
+                "title": "Podcast Informativo"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "509658",
+                    "name": "Just Chatting"
+                },
+                "end_time": "2023-10-19T21:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkZGFlZDM1Yy02NjE2LTRjZGEtOTAxZi04ZjE4MTQzMmM4ZGEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
+                "is_recurring": true,
+                "start_time": "2023-10-19T19:30:00Z",
+                "title": "Podcast Informativo"
+            }
+        ],
+        "vacation": null
+    },
+    {
+        "broadcaster_id": "788722070",
+        "broadcaster_login": "intramind",
+        "broadcaster_name": "IntraMind",
+        "segments": [
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "513181",
+                    "name": "Genshin Impact"
+                },
+                "end_time": "2023-06-06T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkNDJiZDllYy05OWU2LTQzNzctYWU4MC1lODM3NGVjYzM5MmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-06T18:30:00Z",
+                "title": "🔴 Alessia Bot in chat! 💪❗social❗prime"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "1469308723",
+                    "name": "Software and Game Development"
+                },
+                "end_time": "2023-06-07T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIxNzlkNTYxYy0wMjdjLTQ1ODMtYmFlMC0wMDE5Yjk4NWY0ZTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-07T18:30:00Z",
+                "title": "🔴 [WhatsApp Partner] Alessia Bot Development"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "497057",
+                    "name": "Destiny 2"
+                },
+                "end_time": "2023-06-08T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJiN2QyZWQ3ZC05YWZiLTQ2MzMtYTkxOC1iNWM2YjYyNTU5MzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-08T18:30:00Z",
+                "title": "🔴Alessia Bot in chat! Your destiny is me.💪from zero to hero💪 ❗social❗prime"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "1469308723",
+                    "name": "Software and Game Development"
+                },
+                "end_time": "2023-06-09T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI4NjFlYzQ2MS1kODg3LTQxZDctOTRjZS05OTM3MzJiMGYzNWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-09T18:30:00Z",
+                "title": "🔴 [WhatsApp Partner] Alessia Bot Development"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "513181",
+                    "name": "Genshin Impact"
+                },
+                "end_time": "2023-06-12T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0NzMwZWQyZi05NjkzLTQ5NDAtODI2OS04MTg2MWQyZDQzYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-12T18:30:00Z",
+                "title": "🔴 Alessia Bot in chat! 💪❗social❗prime"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "513181",
+                    "name": "Genshin Impact"
+                },
+                "end_time": "2023-06-13T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkNDJiZDllYy05OWU2LTQzNzctYWU4MC1lODM3NGVjYzM5MmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-13T18:30:00Z",
+                "title": "🔴 Alessia Bot in chat! 💪❗social❗prime"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "1469308723",
+                    "name": "Software and Game Development"
+                },
+                "end_time": "2023-06-14T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIxNzlkNTYxYy0wMjdjLTQ1ODMtYmFlMC0wMDE5Yjk4NWY0ZTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-14T18:30:00Z",
+                "title": "🔴 [WhatsApp Partner] Alessia Bot Development"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "497057",
+                    "name": "Destiny 2"
+                },
+                "end_time": "2023-06-15T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJiN2QyZWQ3ZC05YWZiLTQ2MzMtYTkxOC1iNWM2YjYyNTU5MzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-15T18:30:00Z",
+                "title": "🔴Alessia Bot in chat! Your destiny is me.💪from zero to hero💪 ❗social❗prime"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "1469308723",
+                    "name": "Software and Game Development"
+                },
+                "end_time": "2023-06-16T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI4NjFlYzQ2MS1kODg3LTQxZDctOTRjZS05OTM3MzJiMGYzNWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-16T18:30:00Z",
+                "title": "🔴 [WhatsApp Partner] Alessia Bot Development"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "513181",
+                    "name": "Genshin Impact"
+                },
+                "end_time": "2023-06-19T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0NzMwZWQyZi05NjkzLTQ5NDAtODI2OS04MTg2MWQyZDQzYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-19T18:30:00Z",
+                "title": "🔴 Alessia Bot in chat! 💪❗social❗prime"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "513181",
+                    "name": "Genshin Impact"
+                },
+                "end_time": "2023-06-20T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkNDJiZDllYy05OWU2LTQzNzctYWU4MC1lODM3NGVjYzM5MmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-20T18:30:00Z",
+                "title": "🔴 Alessia Bot in chat! 💪❗social❗prime"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "1469308723",
+                    "name": "Software and Game Development"
+                },
+                "end_time": "2023-06-21T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIxNzlkNTYxYy0wMjdjLTQ1ODMtYmFlMC0wMDE5Yjk4NWY0ZTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-21T18:30:00Z",
+                "title": "🔴 [WhatsApp Partner] Alessia Bot Development"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "497057",
+                    "name": "Destiny 2"
+                },
+                "end_time": "2023-06-22T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJiN2QyZWQ3ZC05YWZiLTQ2MzMtYTkxOC1iNWM2YjYyNTU5MzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-22T18:30:00Z",
+                "title": "🔴Alessia Bot in chat! Your destiny is me.💪from zero to hero💪 ❗social❗prime"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "1469308723",
+                    "name": "Software and Game Development"
+                },
+                "end_time": "2023-06-23T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI4NjFlYzQ2MS1kODg3LTQxZDctOTRjZS05OTM3MzJiMGYzNWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-23T18:30:00Z",
+                "title": "🔴 [WhatsApp Partner] Alessia Bot Development"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "513181",
+                    "name": "Genshin Impact"
+                },
+                "end_time": "2023-06-26T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0NzMwZWQyZi05NjkzLTQ5NDAtODI2OS04MTg2MWQyZDQzYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-26T18:30:00Z",
+                "title": "🔴 Alessia Bot in chat! 💪❗social❗prime"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "513181",
+                    "name": "Genshin Impact"
+                },
+                "end_time": "2023-06-27T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkNDJiZDllYy05OWU2LTQzNzctYWU4MC1lODM3NGVjYzM5MmMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-27T18:30:00Z",
+                "title": "🔴 Alessia Bot in chat! 💪❗social❗prime"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "1469308723",
+                    "name": "Software and Game Development"
+                },
+                "end_time": "2023-06-28T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIxNzlkNTYxYy0wMjdjLTQ1ODMtYmFlMC0wMDE5Yjk4NWY0ZTQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-28T18:30:00Z",
+                "title": "🔴 [WhatsApp Partner] Alessia Bot Development"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "497057",
+                    "name": "Destiny 2"
+                },
+                "end_time": "2023-06-29T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJiN2QyZWQ3ZC05YWZiLTQ2MzMtYTkxOC1iNWM2YjYyNTU5MzIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-29T18:30:00Z",
+                "title": "🔴Alessia Bot in chat! Your destiny is me.💪from zero to hero💪 ❗social❗prime"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "1469308723",
+                    "name": "Software and Game Development"
+                },
+                "end_time": "2023-06-30T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI4NjFlYzQ2MS1kODg3LTQxZDctOTRjZS05OTM3MzJiMGYzNWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-30T18:30:00Z",
+                "title": "🔴 [WhatsApp Partner] Alessia Bot Development"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "513181",
+                    "name": "Genshin Impact"
+                },
+                "end_time": "2023-07-03T20:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0NzMwZWQyZi05NjkzLTQ5NDAtODI2OS04MTg2MWQyZDQzYmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+                "is_recurring": true,
+                "start_time": "2023-07-03T18:30:00Z",
+                "title": "🔴 Alessia Bot in chat! 💪❗social❗prime"
+            }
+        ],
+        "vacation": null
+    },
+    {
+        "broadcaster_id": "531987888",
+        "broadcaster_login": "d3vaxx",
+        "broadcaster_name": "d3vaxx",
+        "segments": [
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-12T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-12T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-19T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-19T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-06-26T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-26T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-07-03T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+                "is_recurring": true,
+                "start_time": "2023-07-03T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-07-10T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOH0=",
+                "is_recurring": true,
+                "start_time": "2023-07-10T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-07-17T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyOX0=",
+                "is_recurring": true,
+                "start_time": "2023-07-17T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-07-24T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMH0=",
+                "is_recurring": true,
+                "start_time": "2023-07-24T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-07-31T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMX0=",
+                "is_recurring": true,
+                "start_time": "2023-07-31T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-08-07T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozMn0=",
+                "is_recurring": true,
+                "start_time": "2023-08-07T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-08-14T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozM30=",
+                "is_recurring": true,
+                "start_time": "2023-08-14T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-08-21T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNH0=",
+                "is_recurring": true,
+                "start_time": "2023-08-21T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-08-28T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNX0=",
+                "is_recurring": true,
+                "start_time": "2023-08-28T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-09-04T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozNn0=",
+                "is_recurring": true,
+                "start_time": "2023-09-04T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-09-11T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozN30=",
+                "is_recurring": true,
+                "start_time": "2023-09-11T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-09-18T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOH0=",
+                "is_recurring": true,
+                "start_time": "2023-09-18T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-09-25T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjozOX0=",
+                "is_recurring": true,
+                "start_time": "2023-09-25T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-10-02T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MH0=",
+                "is_recurring": true,
+                "start_time": "2023-10-02T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-10-09T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0MX0=",
+                "is_recurring": true,
+                "start_time": "2023-10-09T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-10-16T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0Mn0=",
+                "is_recurring": true,
+                "start_time": "2023-10-16T16:30:00Z",
+                "title": "Warzone ignorante"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "512710",
+                    "name": "Call of Duty: Warzone"
+                },
+                "end_time": "2023-10-23T19:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MmVlMWMwZi1kNmRkLTRkNzYtYTZkYi04ZDIxMTk0MDJkMGUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjo0M30=",
+                "is_recurring": true,
+                "start_time": "2023-10-23T16:30:00Z",
+                "title": "Warzone ignorante"
+            }
+        ],
+        "vacation": null
+    },
+    {
+        "broadcaster_id": "199536734",
+        "broadcaster_login": "j_barber_",
+        "broadcaster_name": "j_barber_",
+        "segments": [
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-06T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIwMTcxZDg5Ni01MmY3LTQ3YzgtYjNlZC1lMWNkY2YxZWEyNzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-06T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-07T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkNDdkOGM0Zi03ZTAyLTQyYjctYTE5NS02MDJlMzJlYzY4ZDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-07T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-08T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2OTFmYjJiOS1jNjU0LTRkNzEtOGE5Mi0wZjI3ZWMzNzA2ZTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-08T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-09T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIzYWJkZThhNi0wODUxLTRkNDctOTJlOC00ZmQ1ZDA3YWYzNmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-09T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-10T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJjNTA5MDZhYS1jMTZkLTQ2YTYtOTllMy0xYmIzMDFiODNkYmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-10T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-11T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0ZTRlYWE0Yy0zZTk1LTRjNmQtYjA3Ni03YmE4Mjg2Y2Y3ZjUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-11T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-12T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI3NTExOGQ0My0yZGQ1LTRlMDktOWU1My1kNDIxM2Q0YmE2ZmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-12T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-13T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIwMTcxZDg5Ni01MmY3LTQ3YzgtYjNlZC1lMWNkY2YxZWEyNzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-13T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-14T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkNDdkOGM0Zi03ZTAyLTQyYjctYTE5NS02MDJlMzJlYzY4ZDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-14T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-15T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2OTFmYjJiOS1jNjU0LTRkNzEtOGE5Mi0wZjI3ZWMzNzA2ZTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-15T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-16T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIzYWJkZThhNi0wODUxLTRkNDctOTJlOC00ZmQ1ZDA3YWYzNmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-16T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-17T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJjNTA5MDZhYS1jMTZkLTQ2YTYtOTllMy0xYmIzMDFiODNkYmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-17T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-18T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0ZTRlYWE0Yy0zZTk1LTRjNmQtYjA3Ni03YmE4Mjg2Y2Y3ZjUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-18T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-19T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI3NTExOGQ0My0yZGQ1LTRlMDktOWU1My1kNDIxM2Q0YmE2ZmYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-19T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-20T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIwMTcxZDg5Ni01MmY3LTQ3YzgtYjNlZC1lMWNkY2YxZWEyNzUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-20T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-21T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJkNDdkOGM0Zi03ZTAyLTQyYjctYTE5NS02MDJlMzJlYzY4ZDciLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-21T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-22T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2OTFmYjJiOS1jNjU0LTRkNzEtOGE5Mi0wZjI3ZWMzNzA2ZTUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-22T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-23T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIzYWJkZThhNi0wODUxLTRkNDctOTJlOC00ZmQ1ZDA3YWYzNmUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-23T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-24T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJjNTA5MDZhYS1jMTZkLTQ2YTYtOTllMy0xYmIzMDFiODNkYmQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-24T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-25T23:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI0ZTRlYWE0Yy0zZTk1LTRjNmQtYjA3Ni03YmE4Mjg2Y2Y3ZjUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-25T20:30:00Z",
+                "title": "spero di farvi divertire! non sono un pro player ma qualcosina a volte mi riesce!!"
+            }
+        ],
+        "vacation": null
+    },
+    {
+        "broadcaster_id": "424864147",
+        "broadcaster_login": "beppe_94",
+        "broadcaster_name": "beppe_94",
+        "segments": [
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI2NDk3Mzc4Ni1jMTAwLTRiYTgtYjNhNC0wN2Y0YzQ0ODZlOTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-06T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI2MWQ5MjY3Yy05MWYwLTRjYzMtODIwNi0yZWE4NDFiYjgwMjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-07T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJjOGZkYWZmNS1hODYzLTQ0MjctODMxMC01YzcyYjEwY2M5NzAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-08T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI1NmRhNDg0NS1kZDA0LTRlM2MtOGM0ZS0xODI1OGUzOGJlMWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-09T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiIxNzJjNzI1NS1mMGM4LTQxMGYtOWUzOS0zNTIxN2VhOTM3ZWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-12T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI2NDk3Mzc4Ni1jMTAwLTRiYTgtYjNhNC0wN2Y0YzQ0ODZlOTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-13T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI2MWQ5MjY3Yy05MWYwLTRjYzMtODIwNi0yZWE4NDFiYjgwMjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-14T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJjOGZkYWZmNS1hODYzLTQ0MjctODMxMC01YzcyYjEwY2M5NzAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-15T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI1NmRhNDg0NS1kZDA0LTRlM2MtOGM0ZS0xODI1OGUzOGJlMWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-16T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiIxNzJjNzI1NS1mMGM4LTQxMGYtOWUzOS0zNTIxN2VhOTM3ZWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-19T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI2NDk3Mzc4Ni1jMTAwLTRiYTgtYjNhNC0wN2Y0YzQ0ODZlOTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-20T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI2MWQ5MjY3Yy05MWYwLTRjYzMtODIwNi0yZWE4NDFiYjgwMjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-21T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJjOGZkYWZmNS1hODYzLTQ0MjctODMxMC01YzcyYjEwY2M5NzAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-22T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI1NmRhNDg0NS1kZDA0LTRlM2MtOGM0ZS0xODI1OGUzOGJlMWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-23T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiIxNzJjNzI1NS1mMGM4LTQxMGYtOWUzOS0zNTIxN2VhOTM3ZWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-26T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI2NDk3Mzc4Ni1jMTAwLTRiYTgtYjNhNC0wN2Y0YzQ0ODZlOTgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-27T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI2MWQ5MjY3Yy05MWYwLTRjYzMtODIwNi0yZWE4NDFiYjgwMjAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-28T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiJjOGZkYWZmNS1hODYzLTQ0MjctODMxMC01YzcyYjEwY2M5NzAiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-29T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiI1NmRhNDg0NS1kZDA0LTRlM2MtOGM0ZS0xODI1OGUzOGJlMWEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-30T20:45:00Z",
+                "title": "In LIVE!"
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": null,
+                "id": "eyJzZWdtZW50SUQiOiIxNzJjNzI1NS1mMGM4LTQxMGYtOWUzOS0zNTIxN2VhOTM3ZWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyN30=",
+                "is_recurring": true,
+                "start_time": "2023-07-03T20:45:00Z",
+                "title": "In LIVE!"
+            }
+        ],
+        "vacation": null
+    },
+    {
+        "broadcaster_id": "192624130",
+        "broadcaster_login": "mirkonx",
+        "broadcaster_name": "mirkonX",
+        "segments": [
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-06T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI4NjU1ZTA4ZC0xNzZiLTRmMDEtOWMzYi00ZDFlMWQ0YWE1OWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-06T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-07T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJiYzZjNDRmZi0yMTgxLTQ0M2MtOWYyMi1mZTJiN2Q3ZDFiMjkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-07T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-08T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJiZmMxYjY2Zi0zOGMzLTQ3NmQtYjU2Yy1kZGU3YTVhMWFkYTEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-08T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-09T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJlMWE1NDhiMS0zZTEyLTQ3NDEtYjBjMy00ZmU4MTZlZGVhYWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-09T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-10T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJjZWNmYTgwZi0yMGI3LTQ3NGItYTc3Ni0zODc5MTk1OGFhNTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-10T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-11T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIxMzI3MGFlZC05NWNiLTQ0N2MtYTVkNC0yOWUzYjdjZTNjN2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-11T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-13T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI4NjU1ZTA4ZC0xNzZiLTRmMDEtOWMzYi00ZDFlMWQ0YWE1OWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-13T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-14T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJiYzZjNDRmZi0yMTgxLTQ0M2MtOWYyMi1mZTJiN2Q3ZDFiMjkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-14T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-15T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJiZmMxYjY2Zi0zOGMzLTQ3NmQtYjU2Yy1kZGU3YTVhMWFkYTEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-15T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-16T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJlMWE1NDhiMS0zZTEyLTQ3NDEtYjBjMy00ZmU4MTZlZGVhYWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-16T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-17T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJjZWNmYTgwZi0yMGI3LTQ3NGItYTc3Ni0zODc5MTk1OGFhNTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-17T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-18T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIxMzI3MGFlZC05NWNiLTQ0N2MtYTVkNC0yOWUzYjdjZTNjN2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-18T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-20T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI4NjU1ZTA4ZC0xNzZiLTRmMDEtOWMzYi00ZDFlMWQ0YWE1OWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-20T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-21T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJiYzZjNDRmZi0yMTgxLTQ0M2MtOWYyMi1mZTJiN2Q3ZDFiMjkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-21T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-22T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJiZmMxYjY2Zi0zOGMzLTQ3NmQtYjU2Yy1kZGU3YTVhMWFkYTEiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-22T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-23T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJlMWE1NDhiMS0zZTEyLTQ3NDEtYjBjMy00ZmU4MTZlZGVhYWUiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-23T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-24T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJjZWNmYTgwZi0yMGI3LTQ3NGItYTc3Ni0zODc5MTk1OGFhNTYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-24T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-25T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIxMzI3MGFlZC05NWNiLTQ0N2MtYTVkNC0yOWUzYjdjZTNjN2IiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-25T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-27T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI4NjU1ZTA4ZC0xNzZiLTRmMDEtOWMzYi00ZDFlMWQ0YWE1OWIiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-27T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            },
+            {
+                "canceled_until": null,
+                "category": {
+                    "id": "30921",
+                    "name": "Rocket League"
+                },
+                "end_time": "2023-06-28T22:30:00Z",
+                "id": "eyJzZWdtZW50SUQiOiJiYzZjNDRmZi0yMTgxLTQ0M2MtOWYyMi1mZTJiN2Q3ZDFiMjkiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-28T19:30:00Z",
+                "title": "MONDIALITO | TORNEI | PRIVATE     🔴 CODICE CREATORE @mirkonx 🔴 !rank !scambirl !sub !starthouse"
+            }
+        ],
+        "vacation": null
+    },
+    {
+        "broadcaster_id": "264162221",
+        "broadcaster_login": "claudiogerbino",
+        "broadcaster_name": "ClaudioGerbino",
+        "segments": [
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-06T20:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI5OTcyMjQwZi1kYjUwLTQ0ZDgtOGI4OC01MDBjMjMwNzdhYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-06T16:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-07T21:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MDQ0YmMxZC1kYWYyLTQxMTctYmU5Yy0zN2M4OGY0NDk3YzMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-07T19:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-08T21:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI3ZjE2NzFhMS02ZGFkLTQ5NjYtOTZkYi1iOGVjNTIwYzI2MDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-08T19:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-09T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI5NzQ3OTM0Zi1iMTQ1LTQzMGYtYjZmOC03ZDdiOWIzY2Q4ZGMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-09T18:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-10T23:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI5NGQ5N2M1ZS03MmVkLTQ4MTAtOWE0Zi01ZjBmNjNmMGY2ZDgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyM30=",
+                "is_recurring": true,
+                "start_time": "2023-06-10T19:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-12T21:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIxZjdhNDExMC01MWU4LTQ1NDktYmE4MS0zODEyNTU2OTM2NzMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-12T19:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-13T20:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI5OTcyMjQwZi1kYjUwLTQ0ZDgtOGI4OC01MDBjMjMwNzdhYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-13T16:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-14T21:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MDQ0YmMxZC1kYWYyLTQxMTctYmU5Yy0zN2M4OGY0NDk3YzMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-14T19:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-15T21:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI3ZjE2NzFhMS02ZGFkLTQ5NjYtOTZkYi1iOGVjNTIwYzI2MDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-15T19:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-16T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI5NzQ3OTM0Zi1iMTQ1LTQzMGYtYjZmOC03ZDdiOWIzY2Q4ZGMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-16T18:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-17T23:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI5NGQ5N2M1ZS03MmVkLTQ4MTAtOWE0Zi01ZjBmNjNmMGY2ZDgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNH0=",
+                "is_recurring": true,
+                "start_time": "2023-06-17T19:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-19T21:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIxZjdhNDExMC01MWU4LTQ1NDktYmE4MS0zODEyNTU2OTM2NzMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-19T19:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-20T20:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI5OTcyMjQwZi1kYjUwLTQ0ZDgtOGI4OC01MDBjMjMwNzdhYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-20T16:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-21T21:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MDQ0YmMxZC1kYWYyLTQxMTctYmU5Yy0zN2M4OGY0NDk3YzMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-21T19:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-22T21:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI3ZjE2NzFhMS02ZGFkLTQ5NjYtOTZkYi1iOGVjNTIwYzI2MDQiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-22T19:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-23T22:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI5NzQ3OTM0Zi1iMTQ1LTQzMGYtYjZmOC03ZDdiOWIzY2Q4ZGMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-23T18:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-24T23:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI5NGQ5N2M1ZS03MmVkLTQ4MTAtOWE0Zi01ZjBmNjNmMGY2ZDgiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNX0=",
+                "is_recurring": true,
+                "start_time": "2023-06-24T19:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-26T21:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiIxZjdhNDExMC01MWU4LTQ1NDktYmE4MS0zODEyNTU2OTM2NzMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-26T19:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-27T20:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI5OTcyMjQwZi1kYjUwLTQ0ZDgtOGI4OC01MDBjMjMwNzdhYzYiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-27T16:00:00Z",
+                "title": ""
+            },
+            {
+                "canceled_until": null,
+                "category": null,
+                "end_time": "2023-06-28T21:00:00Z",
+                "id": "eyJzZWdtZW50SUQiOiI2MDQ0YmMxZC1kYWYyLTQxMTctYmU5Yy0zN2M4OGY0NDk3YzMiLCJpc29ZZWFyIjoyMDIzLCJpc29XZWVrIjoyNn0=",
+                "is_recurring": true,
+                "start_time": "2023-06-28T19:00:00Z",
+                "title": ""
+            }
+        ],
+        "vacation": null
+    }
+]

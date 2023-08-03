@@ -22,4 +22,4 @@ function collapse(stem, sep) {
 }
 
 const server = new jayson.Server(map);
-server.tcp().listen(3000);
+server.tcp().listen(3333);

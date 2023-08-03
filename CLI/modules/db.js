@@ -50,4 +50,9 @@ const deleteServiceDB = async (service_db, user_db) => {
   await exec(`docker exec "${process.env.DOCKER_CONTAINER}" psql -U ${process.env.POSTGRES_USER} -d master -c "drop user ${user_db};"`)
 }
 
-module.exports = { createServiceDB, deleteServiceDB }
+const migrateDB = async (service_name) => {
+  const { spawn } = require('child_process')
+  spawn(`cd ${process.env.SERVICES_PATH}/${service_name}/model && dotenv -e ${process.env.ENV_PATH}/.env -- npx prisma migrate dev`,[], { stdio: 'inherit', shell: true })
+}
+
+module.exports = { createServiceDB, deleteServiceDB, migrateDB }

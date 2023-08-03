@@ -14,7 +14,7 @@ const createServiceRouter = async (service_name) => {
   await replace({
     files: `${process.env.RPC_PATH}/router.js`,
     from: /(let methods = {}\n)/gm,
-    to: `let methods = {}\nmethods = Object.assign(methods,{${service_name}: ${service_name}});\n`
+    to: `let methods = {}\n\tmethods = Object.assign(methods,{${service_name}: ${service_name}});\n`
   })
 }
 
@@ -22,16 +22,26 @@ const createMethodRouter = async (service_name, method_name) => {
   await replace({
     files: `${process.env.SERVICES_PATH}/${service_name}/router.js`,
     from: /(\/\/ IMPORT\n)/gm,
-    to: `// IMPORT\nconst ${method_name}_method = require('./microservices/${method_name}/method.js')`
+    to: `// IMPORT\nconst ${method_name}_method = require('./microservices/${method_name}/method.js')\n`
   })
   await replace({
     files: `${process.env.SERVICES_PATH}/${service_name}/router.js`,
     from: /(module.exports = {\n)/gm,
-    to: `module.exports = {\n${method_name}: (args,callback) => ${method_name}_method(args, callback),`
+    to: `module.exports = {\n\t${method_name}: (args,callback) => ${method_name}_method(args, callback),\n`
+  })
+}
+
+const deleteMethodRouter = async (service_name, method_name) => {
+  const regexMethodName = new RegExp(`(.*${method_name}.*)\n`,'gm')
+  await replace({
+    files: `${process.env.SERVICES_PATH}/${service_name}/router.js`,
+    from: regexMethodName,
+    to: ``
   })
 }
 
 module.exports = {
   createServiceRouter,
-  createMethodRouter
+  createMethodRouter,
+  deleteMethodRouter
 }
